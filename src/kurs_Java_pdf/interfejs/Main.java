@@ -1,4 +1,4 @@
-package kurs_Java_pdf;
+package kurs_Java_pdf.interfejs;
 
 
 public class Main {
